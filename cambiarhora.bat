@@ -1,0 +1,1 @@
+php -f "C:\xampp\htdocs\cambiarhora\cambiarhora.php"
